@@ -91,8 +91,8 @@ function Ex4(){
 }
 
 function Ex5(){ 
-let login_correto = "Brian.Portella@aluno.senai.br";
-let senha_correta = "654321";
+let login_correto = "mclovin@aluno.senai.br";
+let senha_correta = "kush";
 let tentativas = 0;
 
 alert("Seja bem-vindo!");
